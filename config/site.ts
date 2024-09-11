@@ -1,9 +1,8 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-    name: "Next.js + NextUI",
-    description:
-        "Make beautiful websites regardless of your design experience.",
+    name: "TON Address Converter",
+    description: "Convert any type of ton blockchain address.",
     navItems: [
         {
             label: "Home",
@@ -25,7 +24,7 @@ export const siteConfig = {
         },
     ],
     links: {
-        github: "https://github.com/nextui-org/nextui",
-        telegram: "https://patreon.com/jrgarciadev",
+        github: "https://github.com/Ho3einWave/ton-address",
+        telegram: "https://t.me/onyx_ton",
     },
 };

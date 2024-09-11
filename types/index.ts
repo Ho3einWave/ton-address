@@ -21,3 +21,9 @@ export interface Account {
 }
 
 export interface CurrenciesBalance {}
+
+export type KeyType =
+    | "mainnet-bounceable"
+    | "mainnet-none-bounceable"
+    | "testnet-bounceable"
+    | "testnet-none-bounceable";
