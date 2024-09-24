@@ -28,7 +28,7 @@ export const Navbar = () => {
                         href="/"
                     >
                         <p className="font-bold text-inherit">
-                            💎 TON Address Convertor
+                            💎 TON Address Converter
                         </p>
                     </NextLink>
                 </NavbarBrand>
